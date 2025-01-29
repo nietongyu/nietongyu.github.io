@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ea | Tongyu Nie</title>
+    <link>http://localhost:1313/tags/ea/</link>
+      <atom:link href="http://localhost:1313/tags/ea/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ea</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Ea</title>
+      <link>http://localhost:1313/tags/ea/</link>
+    </image>
+    
+    <item>
+      <title>Build Your Own Trigonometric Adventure in Virtual Reality</title>
+      <link>http://localhost:1313/publication/borisova-build-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/borisova-build-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walk Me Through It: Using Impossible Spaces to Embody Graph Traversal Algorithms</title>
+      <link>http://localhost:1313/publication/deguzman-walk-2025/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/deguzman-walk-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redirected Tilting: Eliciting Postural Changes with a Rotational Self-Motion Illusion</title>
+      <link>http://localhost:1313/publication/nie-redirected-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nie-redirected-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

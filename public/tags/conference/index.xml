@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference | Tongyu Nie</title>
+    <link>http://localhost:1313/tags/conference/</link>
+      <atom:link href="http://localhost:1313/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Conference</title>
+      <link>http://localhost:1313/tags/conference/</link>
+    </image>
+    
+    <item>
+      <title>Reduction of Motion Complexity as an Objective Indicator of Cybersickness in Virtual Reality</title>
+      <link>http://localhost:1313/publication/deguzman-reduction-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/deguzman-reduction-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invisible Mesh: Effects of X-Ray Vision Metaphors on Depth Perception in Optical-See-Through Augmented Reality</title>
+      <link>http://localhost:1313/publication/tan-invisible-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tan-invisible-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Like a Rolling Stone: Effects of Space Deformation During Linear Acceleration on Slope Perception and Cybersickness</title>
+      <link>http://localhost:1313/publication/nie-like-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nie-like-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
