@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research addresses the challenge of cybersickness, a form of physical discomfort caused by VR usage, by developing novel techniques for cybersickness mitigation and detection. Building on insights from human perception literature, these innovative computational approaches readily integrate into commercial VR systems, promising to enhance both accessibility and adoption of VR applications.
+        My research addresses the challenge of cybersickness, a form of physical discomfort caused by VR usage, by developing novel techniques for cybersickness mitigation and detection. Building on insights from human perception literature, these innovative computational approaches readily integrate into commercial VR systems, promising to enhance both accessibility and adoption of VR applications. Moreover, I am interested in conducting interdisciplinary research and exploring the broader area of human perception in VR.
     design:
       columns: '1'
   # - block: collection
