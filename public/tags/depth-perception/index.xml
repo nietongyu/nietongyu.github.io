@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Depth Perception | Tongyu Nie</title>
+    <link>http://localhost:1313/tags/depth-perception/</link>
+      <atom:link href="http://localhost:1313/tags/depth-perception/index.xml" rel="self" type="application/rss+xml" />
+    <description>Depth Perception</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_8dee5ca7548e9ece.png</url>
+      <title>Depth Perception</title>
+      <link>http://localhost:1313/tags/depth-perception/</link>
+    </image>
+    
+    <item>
+      <title>One Paper And Two 3DUI Contest Entries Accepted to IEEE VR 2024</title>
+      <link>http://localhost:1313/post/vr24-acceptance/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/vr24-acceptance/</guid>
+      <description>&lt;p&gt;The paper &lt;a href=&#34;http://localhost:1313/publication/tan-invisible-2024/&#34;&gt;&lt;em&gt;Invisible Mesh: Effects of X-Ray Vision Metaphors on Depth Perception in Optical-See-Through Augmented Reality&lt;/em&gt;&lt;/a&gt; was accepted to IEEE VR 2024.&lt;/p&gt;
+&lt;p&gt;Two 3DUI contest entries were accepted to IEEE VR 2024 as well.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

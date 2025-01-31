@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersickness | Tongyu Nie</title>
+    <link>http://localhost:1313/tags/cybersickness/</link>
+      <atom:link href="http://localhost:1313/tags/cybersickness/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cybersickness</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_8dee5ca7548e9ece.png</url>
+      <title>Cybersickness</title>
+      <link>http://localhost:1313/tags/cybersickness/</link>
+    </image>
+    
+    <item>
+      <title>Two Papers Accepted to IEEE VR 2025</title>
+      <link>http://localhost:1313/post/vr25-acceptance/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/vr25-acceptance/</guid>
+      <description>&lt;p&gt;The paper &lt;a href=&#34;http://localhost:1313/publication/nie-peripheral-2025/&#34;&gt;&lt;em&gt;Peripheral Teleportation: A Rest Frame Design to Mitigate Cybersickness During Virtual Locomotion&lt;/em&gt;&lt;/a&gt; was accepted as a TVCG paper.&lt;/p&gt;
+&lt;p&gt;The paper &lt;a href=&#34;http://localhost:1313/publication/deguzman-reduction-2025/&#34;&gt;&lt;em&gt;Reduction of Motion Complexity as an Objective Indicator of Cybersickness in Virtual Reality&lt;/em&gt;&lt;/a&gt; was accepted as a conference paper.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One Paper Accepted to IEEE VR 2023</title>
+      <link>http://localhost:1313/post/vr23-acceptance/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/vr23-acceptance/</guid>
+      <description>&lt;p&gt;The paper &lt;a href=&#34;http://localhost:1313/publication/nie-like-2023/&#34;&gt;&lt;em&gt;Like a Rolling Stone: Effects of Space Deformation During Linear Acceleration on Slope Perception and Cybersickness&lt;/em&gt;&lt;/a&gt; was accepted to IEEE VR 2023.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One Workshop Paper Accepted to IEEE VR 2021</title>
+      <link>http://localhost:1313/post/vr21-acceptance/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/vr21-acceptance/</guid>
+      <description>&lt;p&gt;The paper &lt;a href=&#34;http://localhost:1313/publication/nie-redirected-2021/&#34;&gt;&lt;em&gt;Redirected Tilting: Eliciting Postural Changes with a Rotational Self-Motion Illusion&lt;/em&gt;&lt;/a&gt; was accepted to &lt;a href=&#34;https://sites.google.com/umn.edu/wisp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE VR 2021 Workshop on Immersive Sickness Prevention (WISP)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
