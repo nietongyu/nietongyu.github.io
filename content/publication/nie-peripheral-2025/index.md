@@ -19,4 +19,4 @@ publication: '*IEEE Transactions on Visualization and Computer Graphics (Special
 tags:
 - journal
 ---
-To the best of my knowledge, peripheral teleportation is the first software cybersickness mitigation technique that significantly outperforms a black field-of-view restrictor, the industry standard mitigation technique. You can download a demo [here](https://drive.google.com/file/d/1iwBvl4pfqE5b08RlhBxlkZLnUbSMVTQ0/view?usp=sharing) and run it with a Meta Ques 2 with Oculus Link.
+To the best of my knowledge, peripheral teleportation is the first software cybersickness mitigation technique that significantly outperforms a black field-of-view restrictor, the industry standard mitigation technique. You can download a demo [here](https://drive.google.com/file/d/1iwBvl4pfqE5b08RlhBxlkZLnUbSMVTQ0/view?usp=sharing) (compatible with SteamVR and Quest Link, only tested on a Meta Quest 2).
