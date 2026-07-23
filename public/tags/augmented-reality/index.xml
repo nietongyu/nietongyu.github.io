@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Augmented Reality | Tongyu Nie</title>
+    <link>http://localhost:1313/tags/augmented-reality/</link>
+      <atom:link href="http://localhost:1313/tags/augmented-reality/index.xml" rel="self" type="application/rss+xml" />
+    <description>Augmented Reality</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_8dee5ca7548e9ece.png</url>
+      <title>Augmented Reality</title>
+      <link>http://localhost:1313/tags/augmented-reality/</link>
+    </image>
+    
+    <item>
+      <title>One Paper Accepted to CHI 2026</title>
+      <link>http://localhost:1313/post/26-chi/</link>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/26-chi/</guid>
+      <description>&lt;p&gt;The paper &lt;a href=&#34;http://localhost:1313/publication/liu-can-2026/&#34;&gt;&lt;em&gt;Can AR Embedded Visualizations Foster Appropriate Reliance on AI in Spatial Decision-Making? A Comparative Study of AR X-Ray vs. 2D Minimap&lt;/em&gt;&lt;/a&gt; was accepted to the 2026 CHI Conference on Human Factors in Computing Systems.&lt;/p&gt;
+&lt;p&gt;Congratulations, &lt;a href=&#34;https://carton22.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carton&lt;/a&gt;, &lt;a href=&#34;https://chenzhutian.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zhu-Tian&lt;/a&gt;, and all co-authors!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One Paper And Two 3DUI Contest Entries Accepted to IEEE VR 2024</title>
+      <link>http://localhost:1313/post/24-vr/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/24-vr/</guid>
+      <description>&lt;p&gt;The paper &lt;a href=&#34;http://localhost:1313/publication/tan-invisible-2024/&#34;&gt;&lt;em&gt;Invisible Mesh: Effects of X-Ray Vision Metaphors on Depth Perception in Optical-See-Through Augmented Reality&lt;/em&gt;&lt;/a&gt; was accepted to IEEE VR 2024.&lt;/p&gt;
+&lt;p&gt;Two 3DUI contest entries were accepted to IEEE VR 2024 as well.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

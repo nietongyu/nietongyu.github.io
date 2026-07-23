@@ -177,4 +177,6 @@ education:
 
 ## About Me
 
-Tongyu Nie is a PhD candidate at the Illusioneering Lab, University of Minnesota. His research interests include virtual reality, human perception and 3DUI. He is currently developing software techniques to detect and mitigate cybersickness in VR.
+I am Tongyu Nie, a PhD candidate at the Illusioneering Lab, University of Minnesota. My research interests include virtual reality, human perception and 3DUI. I develop software techniques to detect and mitigate cybersickness in VR.
+
+I am currently looking for a postdoctoral position. 

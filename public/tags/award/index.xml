@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Award | Tongyu Nie</title>
+    <link>http://localhost:1313/tags/award/</link>
+      <atom:link href="http://localhost:1313/tags/award/index.xml" rel="self" type="application/rss+xml" />
+    <description>Award</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_8dee5ca7548e9ece.png</url>
+      <title>Award</title>
+      <link>http://localhost:1313/tags/award/</link>
+    </image>
+    
+    <item>
+      <title>Awarded the UMN Doctoral Dissertation Fellowship</title>
+      <link>http://localhost:1313/post/umn-ddf-2025/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/umn-ddf-2025/</guid>
+      <description>&lt;p&gt;I was awarded the &lt;strong&gt;University of Minnesota Doctoral Dissertation Fellowship&lt;/strong&gt;, a $25,000 fellowship that supports outstanding Ph.D. candidates during the final year of writing their dissertation. Read the &lt;a href=&#34;https://cse.umn.edu/cs/news/cse-announces-2025-26-doctoral-dissertation-fellowship-ddf-award-winners&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;department announcement&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

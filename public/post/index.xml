@@ -5,7 +5,7 @@
     <link>http://localhost:1313/post/</link>
       <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_8dee5ca7548e9ece.png</url>
       <title>Blog</title>
@@ -13,10 +13,67 @@
     </image>
     
     <item>
+      <title>One Paper Accepted to IEEE ISMAR 2026</title>
+      <link>http://localhost:1313/post/26-ismar/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/26-ismar/</guid>
+      <description>&lt;p&gt;The paper &lt;a href=&#34;http://localhost:1313/publication/nie-effects-2026/&#34;&gt;&lt;em&gt;Effects of Field-of-View Restriction and Peripheral Teleportation on Path Integration during Virtual Locomotion&lt;/em&gt;&lt;/a&gt; was accepted to IEEE ISMAR 2026 and will appear in &lt;em&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One Journal Paper Published in TVCG</title>
+      <link>http://localhost:1313/post/26-tvcg/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/26-tvcg/</guid>
+      <description>&lt;p&gt;The paper &lt;a href=&#34;http://localhost:1313/publication/nie-revenge-2025/&#34;&gt;&lt;em&gt;Revenge of the Sick: A Meta-Analysis of Washout Periods in Cybersickness Research&lt;/em&gt;&lt;/a&gt; was published in &lt;em&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Draft text: add a short description of the contribution here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One Paper Accepted to CHI 2026</title>
+      <link>http://localhost:1313/post/26-chi/</link>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/26-chi/</guid>
+      <description>&lt;p&gt;The paper &lt;a href=&#34;http://localhost:1313/publication/liu-can-2026/&#34;&gt;&lt;em&gt;Can AR Embedded Visualizations Foster Appropriate Reliance on AI in Spatial Decision-Making? A Comparative Study of AR X-Ray vs. 2D Minimap&lt;/em&gt;&lt;/a&gt; was accepted to the 2026 CHI Conference on Human Factors in Computing Systems.&lt;/p&gt;
+&lt;p&gt;Congratulations, &lt;a href=&#34;https://carton22.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carton&lt;/a&gt;, &lt;a href=&#34;https://chenzhutian.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zhu-Tian&lt;/a&gt;, and all co-authors!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted to ACM MIG 2025</title>
+      <link>http://localhost:1313/post/25-mig/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/25-mig/</guid>
+      <description>&lt;p&gt;The paper &lt;a href=&#34;http://localhost:1313/publication/cantory-enhancing-2025/&#34;&gt;&lt;em&gt;Enhancing Foveated Rendering with Weighted Reservoir Sampling&lt;/em&gt;&lt;/a&gt; was accepted to the 18th ACM SIGGRAPH Conference on Motion, Interaction, and Games (MIG &amp;lsquo;25).&lt;/p&gt;
+&lt;p&gt;Congratulations, &lt;a href=&#34;https://scholar.google.com/citations?user=uJqiyvwAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ville&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Awarded the UMN Doctoral Dissertation Fellowship</title>
+      <link>http://localhost:1313/post/umn-ddf-2025/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/umn-ddf-2025/</guid>
+      <description>&lt;p&gt;I was awarded the &lt;strong&gt;University of Minnesota Doctoral Dissertation Fellowship&lt;/strong&gt;, a $25,000 fellowship that supports outstanding Ph.D. candidates during the final year of writing their dissertation. Read the &lt;a href=&#34;https://cse.umn.edu/cs/news/cse-announces-2025-26-doctoral-dissertation-fellowship-ddf-award-winners&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;department announcement&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best Paper Award at IEEE VR 2025</title>
+      <link>http://localhost:1313/post/vr25-best-paper/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/vr25-best-paper/</guid>
+      <description>&lt;p&gt;The paper &lt;a href=&#34;http://localhost:1313/publication/nie-peripheral-2025/&#34;&gt;&lt;em&gt;Peripheral Teleportation: A Rest Frame Design to Mitigate Cybersickness During Virtual Locomotion&lt;/em&gt;&lt;/a&gt; received the &lt;strong&gt;Best Paper Award&lt;/strong&gt; at IEEE VR 2025, an honor given to the top 1% of all submissions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Two Papers Accepted to IEEE VR 2025</title>
-      <link>http://localhost:1313/post/vr25-acceptance/</link>
+      <link>http://localhost:1313/post/25-vr/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/vr25-acceptance/</guid>
+      <guid>http://localhost:1313/post/25-vr/</guid>
       <description>&lt;p&gt;The paper &lt;a href=&#34;http://localhost:1313/publication/nie-peripheral-2025/&#34;&gt;&lt;em&gt;Peripheral Teleportation: A Rest Frame Design to Mitigate Cybersickness During Virtual Locomotion&lt;/em&gt;&lt;/a&gt; was accepted as a TVCG paper.&lt;/p&gt;
 &lt;p&gt;The paper &lt;a href=&#34;http://localhost:1313/publication/deguzman-reduction-2025/&#34;&gt;&lt;em&gt;Reduction of Motion Complexity as an Objective Indicator of Cybersickness in Virtual Reality&lt;/em&gt;&lt;/a&gt; was accepted as a conference paper.&lt;/p&gt;
 </description>
@@ -24,9 +81,9 @@
     
     <item>
       <title>One Paper And Two 3DUI Contest Entries Accepted to IEEE VR 2024</title>
-      <link>http://localhost:1313/post/vr24-acceptance/</link>
+      <link>http://localhost:1313/post/24-vr/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/vr24-acceptance/</guid>
+      <guid>http://localhost:1313/post/24-vr/</guid>
       <description>&lt;p&gt;The paper &lt;a href=&#34;http://localhost:1313/publication/tan-invisible-2024/&#34;&gt;&lt;em&gt;Invisible Mesh: Effects of X-Ray Vision Metaphors on Depth Perception in Optical-See-Through Augmented Reality&lt;/em&gt;&lt;/a&gt; was accepted to IEEE VR 2024.&lt;/p&gt;
 &lt;p&gt;Two 3DUI contest entries were accepted to IEEE VR 2024 as well.&lt;/p&gt;
 </description>
@@ -34,18 +91,18 @@
     
     <item>
       <title>One Paper Accepted to IEEE VR 2023</title>
-      <link>http://localhost:1313/post/vr23-acceptance/</link>
+      <link>http://localhost:1313/post/23-vr/</link>
       <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/vr23-acceptance/</guid>
+      <guid>http://localhost:1313/post/23-vr/</guid>
       <description>&lt;p&gt;The paper &lt;a href=&#34;http://localhost:1313/publication/nie-like-2023/&#34;&gt;&lt;em&gt;Like a Rolling Stone: Effects of Space Deformation During Linear Acceleration on Slope Perception and Cybersickness&lt;/em&gt;&lt;/a&gt; was accepted to IEEE VR 2023.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>One Workshop Paper Accepted to IEEE VR 2021</title>
-      <link>http://localhost:1313/post/vr21-acceptance/</link>
+      <link>http://localhost:1313/post/21-vr/</link>
       <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/vr21-acceptance/</guid>
+      <guid>http://localhost:1313/post/21-vr/</guid>
       <description>&lt;p&gt;The paper &lt;a href=&#34;http://localhost:1313/publication/nie-redirected-2021/&#34;&gt;&lt;em&gt;Redirected Tilting: Eliciting Postural Changes with a Rotational Self-Motion Illusion&lt;/em&gt;&lt;/a&gt; was accepted to &lt;a href=&#34;https://sites.google.com/umn.edu/wisp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE VR 2021 Workshop on Immersive Sickness Prevention (WISP)&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

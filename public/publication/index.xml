@@ -5,7 +5,7 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_8dee5ca7548e9ece.png</url>
       <title>Publications</title>
@@ -13,20 +13,81 @@
     </image>
     
     <item>
-      <title>Peripheral Teleportation: A Rest Frame Design to Mitigate Cybersickness During Virtual Locomotion</title>
-      <link>http://localhost:1313/publication/nie-peripheral-2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nie-peripheral-2025/</guid>
-      <description>&lt;p&gt;To the best of my knowledge, peripheral teleportation is the first software cybersickness mitigation technique that significantly outperforms a black field-of-view restrictor, the industry standard mitigation technique. You can download a demo &lt;a href=&#34;https://drive.google.com/file/d/1iwBvl4pfqE5b08RlhBxlkZLnUbSMVTQ0/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and run it with a Meta Ques 2 with Oculus Link.&lt;/p&gt;
+      <title>Effects of Field-of-View Restriction and Peripheral Teleportation on Path Integration during Virtual Locomotion</title>
+      <link>http://localhost:1313/publication/nie-effects-2026/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nie-effects-2026/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Most software-based cybersickness mitigation techniques, such as field-of-view (FOV) restrictors and rest frames, alter visual content and peripheral optical flow, often negatively affecting various locomotion quality factors. Path integration, a critical component of spatial updating, relies on optical flow during virtual locomotion and may therefore be particularly affected by these techniques. Despite a substantial body of work evaluating cybersickness mitigation methods, relatively few studies have examined their effects on spatial updating or path integration. Moreover, prior studies on spatial updating have not yielded conclusive results, despite theoretical predictions from the perception literature. In this work, we conducted a preregistered experiment with 48 participants to compare the effects of two mitigation techniques, the dynamic FOV restrictor and peripheral teleportation, on path integration, relative to an unrestricted control condition. By minimizing potential confounding factors identified in previous work, we found that participants made significantly larger homing errors with the FOV restrictor than in the control condition, whereas performance with peripheral teleportation did not differ significantly from either of the other conditions. These findings provide direct evidence that FOV restriction impairs path integration, while the impact of peripheral teleportation remains inconclusive. Our results further highlight the trade-off between mitigation effectiveness and spatial updating, providing VR designers with deeper context for selecting mitigation techniques.&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;p&gt;To be added.&lt;/p&gt;
+&lt;h2 id=&#34;supplementary-materials&#34;&gt;Supplementary Materials&lt;/h2&gt;
+&lt;p&gt;The Unity builds of the experiment can be found on &lt;a href=&#34;https://osf.io/jgx6p&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OSF&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Reduction of Motion Complexity as an Objective Indicator of Cybersickness in Virtual Reality</title>
-      <link>http://localhost:1313/publication/deguzman-reduction-2024/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/deguzman-reduction-2024/</guid>
-      <description></description>
+      <title>Revenge of the Sick: A Meta-Analysis of Washout Periods in Cybersickness Research</title>
+      <link>http://localhost:1313/publication/nie-revenge-2026/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nie-revenge-2026/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Cybersickness remains a major barrier to the widespread adoption of virtual reality (VR) technologies, motivating researchers to investigate its causes and mitigation strategies through comparative human-subjects studies. These experiments may employ either within- or between-subjects designs. Although within-subjects designs require fewer participants and potentially offer higher statistical power, researchers need to wash out carryover effects of cybersickness symptoms before each session to avoid confounding the results. Prior studies have employed washout periods of varying lengths; some required testing conditions on different days, while others allowed only short breaks of less than 15 minutes. Although shorter washout periods are more convenient for experimenters, their impact on study outcomes has not been systematically investigated. In this work, we conducted a meta-analysis to evaluate the effects of study design and washout period length on cybersickness self-reports measured with the Simulator Sickness Questionnaire (SSQ). We found that short washout periods reduce statistical power compared to long washout periods or between-subjects designs. Based on these findings, we provide guidelines to help researchers design more reliable cybersickness studies and improve the generalizability of their results.&lt;/p&gt;
+&lt;h2 id=&#34;supplementary-materials&#34;&gt;Supplementary Materials&lt;/h2&gt;
+&lt;p&gt;The data and related analysis scripts of this work are on &lt;a href=&#34;https://github.com/nietongyu/CybersicknessGuideline/tree/main&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;p&gt;This video was from WISP 2025, where I presented some preliminary findings of this project. Updated video coming soon!
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/fDIlnDOxHCo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Can AR Embedded Visualizations Foster Appropriate Reliance on AI in Spatial Decision-Making? A Comparative Study of AR X-Ray vs. 2D Minimap</title>
+      <link>http://localhost:1313/publication/liu-can-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/liu-can-2026/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Artificial Intelligence (AI) and indoor sensing increasingly support decision-making in spatial environments. However, traditional visualization methods impose a substantial mental workload when viewers translate this digital information into real-world spaces, leading to inappropriate reliance on AI. Embedded visualizations in Augmented Reality (AR), by integrating information into physical environments, may reduce this workload and foster more appropriate reliance on AI. To assess this, we conducted an empirical study (N = 32) comparing an AR embedded visualization (X-ray) and 2D Minimap in AI-assisted, time-critical spatial target selection tasks. Surprisingly, evidence shows that the embedded visualization led to greater inappropriate reliance on AI, primarily as over-reliance, due to factors like perceptual challenges, visual proximity illusions, and highly realistic visual representations. Nonetheless, the embedded visualization showed benefits in spatial mapping. We conclude by discussing empirical insights, design implications, and directions for future research on human-AI collaborative decision in AR.&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/_e--03N1OW8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Enhancing Foveated Rendering with Weighted Reservoir Sampling</title>
+      <link>http://localhost:1313/publication/cantory-enhancing-2025/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cantory-enhancing-2025/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Spatiotemporal sensitivity to high frequency information declines with increased peripheral eccentricity. Foveated rendering exploits this by decreasing the spatial resolution of rendered images in peripheral vision, reducing the rendering cost by omitting high frequency details. As foveation levels increase, the rendering quality is reduced, and traditional foveated rendering systems tend not to preserve samples that were previously rendered at high spatial resolution in previous frames. Additionally, prior research has shown that saccade landing positions are distributed around a target location rather than landing at a single point, and that even during fixations, eyes perform small microsaccades around a fixation point. This creates an opportunity for sampling from temporally neighbouring frames with differing foveal locations to reduce the required rendered size of the foveal region while achieving a higher perceived image quality. We further observe that the temporal presentation of pixels frame-to-frame can be viewed as a data stream, presenting a random sampling problem. Following this intuition, we propose a Weighted Reservoir Sampling technique to efficiently maintain a reservoir of the perceptually relevant high quality pixel samples from previous frames and incorporate them into the computation of the current frame. This allows the renderer to render a smaller region of foveal pixels per frame by temporally reusing pixel samples that are still relevant to reconstruct a higher perceived image quality, while allowing for higher levels of foveation. Our method operates on the output of foveated rendering, and runs in under 1 ms at 4K resolution, making it highly efficient and integrable with real-time VR and AR foveated rendering systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Peripheral Teleportation: A Rest Frame Design to Mitigate Cybersickness During Virtual Locomotion</title>
+      <link>http://localhost:1313/publication/nie-peripheral-2025/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nie-peripheral-2025/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Mitigating cybersickness can improve the usability of virtual reality (VR) and increase its adoption. The most widely used technique, dynamic field-of-view (FOV) restriction, mitigates cybersickness by blacking out the peripheral region of the user&amp;rsquo;s FOV. However, this approach reduces the visibility of the virtual environment. We propose peripheral teleportation, a novel technique that creates a rest frame (RF) in the user&amp;rsquo;s peripheral vision using content rendered from the current virtual environment. Specifically, the peripheral region is rendered by a pair of RF cameras whose transforms are updated by the user&amp;rsquo;s physical motion. We apply alternating teleportations during translations, or snap turns during rotations, to the RF cameras to keep them close to the current viewpoint transformation. Consequently, the optical flow generated by RF cameras matches the user&amp;rsquo;s physical motion, creating a stable peripheral view. In a between-subjects study (N=90), we compared peripheral teleportation with a traditional black FOV restrictor and an unrestricted control condition. The results showed that peripheral teleportation significantly reduced discomfort and enabled participants to stay immersed in the virtual environment for a longer duration of time. Overall, these findings suggest that peripheral teleportation is a promising technique that VR practitioners may consider adding to their cybersickness mitigation toolset.&lt;/p&gt;
+&lt;h2 id=&#34;supplementary-materials&#34;&gt;Supplementary Materials&lt;/h2&gt;
+&lt;p&gt;Download a VR demo &lt;a href=&#34;https://drive.google.com/file/d/1iwBvl4pfqE5b08RlhBxlkZLnUbSMVTQ0/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; (compatible with SteamVR and Quest Link, only tested on a Meta Quest 2).&lt;/p&gt;
+&lt;p&gt;The source code of peripheral teleportation is on &lt;a href=&#34;https://github.com/nietongyu/PeripheralTeleportation/tree/main&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/v07hlQGAaUk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+</description>
     </item>
     
     <item>
@@ -34,7 +95,19 @@
       <link>http://localhost:1313/publication/deguzman-reduction-2025/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/deguzman-reduction-2025/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Subjective measures, such as the Simulator Sickness Questionnaire (SSQ), Fast Motion Sickness Questionnaire (FMS), and discomfort scores, are widely used to assess cybersickness, but they often interrupt the user experience and are prone to bias. To overcome these limitations, researchers have also investigated objective indicators, though some approaches, such as using physiological data, can be cumbersome and impractical. Based on the loss of complexity hypothesis, which suggests that certain conditions, such as disease or aging, can produce a reduction of complexity in physiological system dynamics, we conducted an initial investigation of the relationship between movement complexity and cybersickness. We analyzed motion tracking collected from two previous cybersickness studies using the d95 score, a complexity metric derived using principal component analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invisible Mesh: Effects of X-Ray Vision Metaphors on Depth Perception in Optical-See-Through Augmented Reality</title>
+      <link>http://localhost:1313/publication/tan-invisible-2024/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tan-invisible-2024/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This paper investigates the influence of X-ray vision metaphors on distance estimation in optical-see-through augmented reality (AR) in action space. A within-subjects study (N=30) was conducted to evaluate depth judgments across five conditions, including a novel “invisible mesh” technique. Participants performed a series of blind walking tasks that required estimating the depth of AR objects displayed at multiple distance ranges in front or behind a physical occluding surface. Although quantitative results regarding the impact of different X-ray vision metaphors on distance perception were inconclusive, participant feedback revealed a diversity of strategies and preferences. Overall, the findings suggest that no single metaphor was considered universally superior, and multiple X-ray vision metaphors may be suitable for different users and situations. This research contributes to understanding of X-ray vision techniques and informs the design considerations for AR systems aiming to enhance depth perception and user experience.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -42,15 +115,9 @@
       <link>http://localhost:1313/publication/borisova-build-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/borisova-build-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Invisible Mesh: Effects of X-Ray Vision Metaphors on Depth Perception in Optical-See-Through Augmented Reality</title>
-      <link>http://localhost:1313/publication/tan-invisible-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tan-invisible-2024/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Trigonometry is important to a diverse set of fields. However, it is often a difficult topic for students to learn. This is most commonly due to a difficulty of visualizing the concepts and understanding how they are related. Currently, there are not many widespread tools that encourage the exploration and physical interaction of trigonometry. Build Your Own Trigonometric Adventure (BYOTA) aims to help students gain a better understanding of trigonometric concepts by using them to manipulate terrain geometry in a virtual reality experience. Users can build the terrain around them by modeling a trigonometric equation, view their rotations in multiple unit circle modes, and view the equations that were used to create the specific hills and valleys. They can also directly manipulate the virtual world using World-in-Miniature (WIM), which allows them to customize the terrain and place objects in the environment using a handheld 3D map. BYOTA&amp;rsquo;s objective is to enhance comprehension and encourage playful exploration of trigonometry in virtual reality, offering a concrete way to engage students with abstract mathematical concepts that they often struggle to learn.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -58,23 +125,41 @@
       <link>http://localhost:1313/publication/deguzman-walk-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/deguzman-walk-2024/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;When faced with learning new algorithms, students often struggle with recognizing the details of the algorithm or with understanding the meaning of its intermediate stages and interpreting the results. These difficulties typically stem from the inherent inadequacies of using static representations to describe dynamic systems. We have developed the guided walk-through experience, Walk Me Through It, as a way for users to, not only visualize but interact, with every stage of common graph traversal algorithms, Breadth-First Search and Depth-First Search. Users must construct their own map of the room layout and connections between them by collecting room Tokens as they navigate the maze implemented with Flexible Spaces.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Like a Rolling Stone: Effects of Space Deformation During Linear Acceleration on Slope Perception and Cybersickness</title>
       <link>http://localhost:1313/publication/nie-like-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/nie-like-2023/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The decoupled relationship between the optical and inertial information in virtual reality is commonly acknowledged as a major factor contributing to cybersickness. Based on laws of physics, we noticed that a slope naturally affords acceleration, and the gravito-inertial force we experience when we are accelerating freely on a slope has the same relative direction and approximately the same magnitude as the gravity we experience when standing on the ground. This provides the opportunity to simulate a slope by manipulating the orientation of virtual objects accordingly with the accelerating optical flow. In this paper, we present a novel space deformation technique that deforms the virtual environment to replicate the structure of a slope when the user accelerates virtually. As a result, we can restore the physical relationship between the optical and inertial information available to the user. However, the changes to the geometry of the virtual environment during space deformation remain perceptible to users. Consequently, we created two different transition effects, pinch and tilt, which provide different visual experiences of ground bending. A human subject study (N=87) was conducted to evaluate the effects of space deformation on both slope perception and cyber-sickness. The results confirmed that the proposed technique created a strong feeling of traveling on a slope, but no significant differences were found on measures of discomfort and cybersickness.&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/rP5HyLt1ccU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+</description>
     </item>
     
     <item>
       <title>Redirected Tilting: Eliciting Postural Changes with a Rotational Self-Motion Illusion</title>
       <link>http://localhost:1313/publication/nie-redirected-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/nie-redirected-2021/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In this paper, we propose a potential cybersickness mitigation technique, redirected tilting, and conduct an exploratory virtual reality (VR) study to determine whether it is possible to visually induce head tilt during virtual locomotion. Redirected tilting involves rotating the virtual environment (VE) towards the turning direction around the VR headset’s roll axis, which we hypothesize could lead users to tilt their bodies in the same direction and maintain balance during curved paths. Unlike previous techniques, like field of view (FOV) restriction or rest frames, this method could potentially reduce cybersickness by manipulating egocentric self-motion rather than modifying visual characteristics of the VE. As an initial exploration, we conducted a within-subjects study with 30 participants to evaluate the effect of redirected tilting on postural behavior. The results showed that the proposed technique was successful in eliciting head tilt, although the magnitude of rotation was not as large as we had expected. We conclude that further investigation is needed to understand the mechanics, ideal parameters, and applications of redirected tilting.&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/1gIen5myqJI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+</description>
     </item>
     
   </channel>

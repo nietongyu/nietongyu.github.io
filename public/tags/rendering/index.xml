@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rendering | Tongyu Nie</title>
+    <link>http://localhost:1313/tags/rendering/</link>
+      <atom:link href="http://localhost:1313/tags/rendering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rendering</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_8dee5ca7548e9ece.png</url>
+      <title>Rendering</title>
+      <link>http://localhost:1313/tags/rendering/</link>
+    </image>
+    
+    <item>
+      <title>Paper Accepted to ACM MIG 2025</title>
+      <link>http://localhost:1313/post/25-mig/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/25-mig/</guid>
+      <description>&lt;p&gt;The paper &lt;a href=&#34;http://localhost:1313/publication/cantory-enhancing-2025/&#34;&gt;&lt;em&gt;Enhancing Foveated Rendering with Weighted Reservoir Sampling&lt;/em&gt;&lt;/a&gt; was accepted to the 18th ACM SIGGRAPH Conference on Motion, Interaction, and Games (MIG &amp;lsquo;25).&lt;/p&gt;
+&lt;p&gt;Congratulations, &lt;a href=&#34;https://scholar.google.com/citations?user=uJqiyvwAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ville&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

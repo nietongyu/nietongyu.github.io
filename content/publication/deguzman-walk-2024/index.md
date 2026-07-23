@@ -18,3 +18,5 @@ doi: 10.1109/VRW62533.2024.00340
 tags:
 - ea
 ---
+## Abstract
+When faced with learning new algorithms, students often struggle with recognizing the details of the algorithm or with understanding the meaning of its intermediate stages and interpreting the results. These difficulties typically stem from the inherent inadequacies of using static representations to describe dynamic systems. We have developed the guided walk-through experience, Walk Me Through It, as a way for users to, not only visualize but interact, with every stage of common graph traversal algorithms, Breadth-First Search and Depth-First Search. Users must construct their own map of the room layout and connections between them by collecting room Tokens as they navigate the maze implemented with Flexible Spaces.
