@@ -3,7 +3,7 @@ title: Effects of Field-of-View Restriction and Peripheral Teleportation on Path
   Integration during Virtual Locomotion
 authors:
 - Tongyu Nie
-- Yuxuan Huang
+- [Yuxuan Huang](https://yuxuan-huang97.github.io/)
 - Ville Cantory
 - Danhua Zhang
 - Evan Suma Rosenberg
