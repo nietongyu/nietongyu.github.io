@@ -1,5 +1,5 @@
 ---
-title: One Paper Accepted to IEEE TVCG
+title: Paper Accepted to IEEE TVCG
 summary: 
 date: 2026-06-13
 authors:

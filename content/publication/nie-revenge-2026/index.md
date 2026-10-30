@@ -28,5 +28,4 @@ Cybersickness remains a major barrier to the widespread adoption of virtual real
 The data and related analysis scripts of this work are on [GitHub](https://github.com/nietongyu/CybersicknessGuideline/tree/main)
 
 ## Video
-This video was from WISP 2025, where I presented some preliminary findings of this project. Updated video coming soon!
-{{< youtube fDIlnDOxHCo>}}
+{{< youtube n9SACICsmkc >}}

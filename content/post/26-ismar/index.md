@@ -1,6 +1,6 @@
 ---
-title: One Paper Accepted to IEEE ISMAR 2026
-summary: My last project for my dissertation was conditionally accepted.
+title: Paper Accepted to IEEE ISMAR 2026
+summary: The last project for my dissertation was conditionally accepted.
 date: 2026-07-11
 authors:
   - admin

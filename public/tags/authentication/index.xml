@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authentication | Tongyu Nie</title>
+    <link>http://localhost:1313/tags/authentication/</link>
+      <atom:link href="http://localhost:1313/tags/authentication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authentication</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_8dee5ca7548e9ece.png</url>
+      <title>Authentication</title>
+      <link>http://localhost:1313/tags/authentication/</link>
+    </image>
+    
+    <item>
+      <title>Paper Accepted to ACM VRST 2026</title>
+      <link>http://localhost:1313/post/26-vrst/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/26-vrst/</guid>
+      <description>&lt;p&gt;Our paper, &lt;em&gt;Context When Needed, Digits When Useful: Balancing Memorability and Efficiency in Virtual Reality Authentication&lt;/em&gt;, was accepted to the 32nd ACM Symposium on Virtual Reality Software and Technology (VRST 2026).&lt;/p&gt;
+&lt;p&gt;Congratulations to &lt;a href=&#34;https://yuxuan-huang97.github.io/blog/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yuxuan Huang&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

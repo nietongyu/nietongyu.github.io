@@ -5,7 +5,7 @@
     <link>http://localhost:1313/post/</link>
       <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_8dee5ca7548e9ece.png</url>
       <title>Blog</title>
@@ -13,7 +13,17 @@
     </image>
     
     <item>
-      <title>One Paper Accepted to IEEE ISMAR 2026</title>
+      <title>Paper Accepted to ACM VRST 2026</title>
+      <link>http://localhost:1313/post/26-vrst/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/26-vrst/</guid>
+      <description>&lt;p&gt;Our paper, &lt;em&gt;Context When Needed, Digits When Useful: Balancing Memorability and Efficiency in Virtual Reality Authentication&lt;/em&gt;, was accepted to the 32nd ACM Symposium on Virtual Reality Software and Technology (VRST 2026).&lt;/p&gt;
+&lt;p&gt;Congratulations to &lt;a href=&#34;https://yuxuan-huang97.github.io/blog/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yuxuan Huang&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted to IEEE ISMAR 2026</title>
       <link>http://localhost:1313/post/26-ismar/</link>
       <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/26-ismar/</guid>
@@ -22,12 +32,12 @@
     </item>
     
     <item>
-      <title>One Journal Paper Published in TVCG</title>
+      <title>Paper Accepted to IEEE TVCG</title>
       <link>http://localhost:1313/post/26-tvcg/</link>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/26-tvcg/</guid>
       <description>&lt;p&gt;The paper &lt;a href=&#34;http://localhost:1313/publication/nie-revenge-2025/&#34;&gt;&lt;em&gt;Revenge of the Sick: A Meta-Analysis of Washout Periods in Cybersickness Research&lt;/em&gt;&lt;/a&gt; was published in &lt;em&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Draft text: add a short description of the contribution here.&lt;/p&gt;
+&lt;p&gt;I will present this paper at IEEE ISMAR 2026 (Bari, Italy).&lt;/p&gt;
 </description>
     </item>
     
