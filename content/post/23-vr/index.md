@@ -1,6 +1,6 @@
 ---
 title: One Paper Accepted to IEEE VR 2023
-summary: My first IEEE VR conference full paper.
+summary: This was my first full conference paper at IEEE VR.
 date: 2023-01-25
 authors:
   - admin
