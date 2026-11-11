@@ -1,12 +1,13 @@
 ---
-title: Like a Rolling Stone
-summary: Space deformation during virtual acceleration can recreate the sensation of traveling on a slope. Published at IEEE VR 2023.
+title: Slope Illusions in VR
+summary: "Like a Rolling Stone: Effects of Space Deformation During Linear Acceleration on Slope Perception and Cybersickness"
 date: '2023-05-01'
 tags:
   - Virtual reality
   - Cybersickness
   - Locomotion
 external_link: /publication/nie-like-2023/
-image:
-  filename: tilt.gif
+# image:
+#   filename: tilt.gif
+preview_video: tilt.mp4
 ---

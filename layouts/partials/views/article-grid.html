@@ -63,7 +63,7 @@
   <div class="">
     <div class="">
       <div class="flex gap-3">
-        {{ range $index, $value := first 1 ($item.GetTerms "tags") }}
+        {{ range $item.GetTerms "tags" }}
         <a href="{{.RelPermalink}}"><span
           class="inline-block text-xs font-medium tracking-wider uppercase mt-5 text-primary-700 dark:text-primary-300">{{ .Page.LinkTitle }}</span></a>
         {{end}}
